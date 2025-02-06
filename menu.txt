@@ -2,4 +2,3 @@ dosa
 extra karam
 chapathi
 puri
-idli
